@@ -1,0 +1,6 @@
+Nama saya Rakha
+saya memiliki beberapa resolusi, yaitu :
+- Menyelesaikan laporan magang
+- Belajar Git
+- Belajar Front End
+- Belajar Back End
